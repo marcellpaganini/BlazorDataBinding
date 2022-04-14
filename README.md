@@ -21,8 +21,8 @@
 
 ### Programming Topics practiced to get things done  
 #### Data Binding (Blazor)  
-- [ ] General
-- [ ] select option tags  
+- [x] General
+- [x] select option tags  
 - [ ] select with null objects    
 - [ ] Unparsable values  
 - [ ] Format strings  
