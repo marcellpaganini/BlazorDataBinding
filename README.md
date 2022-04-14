@@ -25,7 +25,7 @@
 - [x] select option tags  
 - [x] select with null objects    
 - [x] Unparsable values  
-- [ ] Format strings  
+- [x] Format strings  
 - [ ] Custom binding formats  
 - [ ] Binding with component parameters  
 - [ ] Bind accross more than two components  
