@@ -23,8 +23,8 @@
 #### Data Binding (Blazor)  
 - [x] General
 - [x] select option tags  
-- [ ] select with null objects    
-- [ ] Unparsable values  
+- [x] select with null objects    
+- [x] Unparsable values  
 - [ ] Format strings  
 - [ ] Custom binding formats  
 - [ ] Binding with component parameters  
