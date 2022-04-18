@@ -26,6 +26,6 @@
 - [x] select with null objects    
 - [x] Unparsable values  
 - [x] Format strings  
-- [ ] Custom binding formats  
-- [ ] Binding with component parameters  
+- [x] Custom binding formats  
+- [x] Binding with component parameters  
 - [ ] Bind accross more than two components  
