@@ -28,4 +28,4 @@
 - [x] Format strings  
 - [x] Custom binding formats  
 - [x] Binding with component parameters  
-- [ ] Bind accross more than two components  
+- [x] Bind accross more than two components  
